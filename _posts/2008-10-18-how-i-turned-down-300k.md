@@ -8,4 +8,4 @@ comments: true
 ================
 
 <p class="meta">18 Oct 2008 - San Francisco</p>
-Sample Post
+Sample Post - Edited 26-Jul
